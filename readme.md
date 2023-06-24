@@ -1,6 +1,7 @@
 <h1>creating basic crud app using rest API</h1>
 
-> project status:
+> project status: in progress
+> last update:
 > 21/06/2023 - app has no front end yet.. all CRUD features are being used by a client (POSTMAN)
 
 tools used:
