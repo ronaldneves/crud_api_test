@@ -3,7 +3,7 @@
 > project status: in progress
 
 
-> last update:
+> update history:
 > 21/06/2023 - app has no front end yet.. all CRUD features are being used by a client (POSTMAN)
 
 tools used:
