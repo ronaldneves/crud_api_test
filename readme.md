@@ -14,4 +14,4 @@ tools used:
 back end: simple CRUD app for creating books, publisher and author objects, stored on a noSQL mongoDB database (hosted online). 
 objects also have references between them, like (book -> author) and (book -> publisher)
 
-you also needs to connect your own database on /src/config/dbConnect.js, line 3.
+you also need to connect your own database on /src/config/dbConnect.js, line 3.
